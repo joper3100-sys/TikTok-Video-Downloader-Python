@@ -33,3 +33,4 @@ if __name__ == "__main__":
     tiktok_url = "https://www.tiktok.com/@username/video/123456789"
     download_directory = "/path/to/directory"
     download_tiktok_video(tiktok_url, download_directory)
+
